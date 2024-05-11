@@ -11,3 +11,15 @@ This C++ code uses the Qt framework and OpenCV library to create a GUI applicati
 4. `showGrayscaleVideo()` slot: This slot is connected to the "GRAYSCALE VIDEO" button and opens a new window to display the grayscale version of the video. It uses OpenCV's `cv::cvtColor()` function to convert the video frames to grayscale.
 
 5. `main()` function: This is the entry point of the application. It creates a `QApplication` instance and a `MainWindow` object, and shows the main window.
+
+# VideotoGrayscale_Qt.cpp
+
+This C++ code uses the FLTK (Fast Light Toolkit) library for creating the graphical user interface and OpenCV for video processing. The main window has buttons for selecting a video file, displaying the original video, displaying the grayscale video, and exiting the application.
+
+- The `open_file` function allows the user to select a video file using a file chooser dialog. 
+- The `original_fun` function opens a window and displays the selected video in its original form. 
+- The `grayscale_fun` function opens a window and displays the selected video in grayscale format.
+
+
+
+

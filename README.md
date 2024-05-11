@@ -12,7 +12,7 @@ This C++ code uses the Qt framework and OpenCV library to create a GUI applicati
 
 5. `main()` function: This is the entry point of the application. It creates a `QApplication` instance and a `MainWindow` object, and shows the main window.
 
-# VideotoGrayscale_Qt.cpp
+# VideotoGrayscale_FLTK.cpp
 
 This C++ code uses the FLTK (Fast Light Toolkit) library for creating the graphical user interface and OpenCV for video processing. The main window has buttons for selecting a video file, displaying the original video, displaying the grayscale video, and exiting the application.
 

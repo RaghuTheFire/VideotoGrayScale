@@ -1,4 +1,4 @@
-# VideotoGrayScale
+# VideotoGrayscale_Qt.cpp
 
 This C++ code uses the Qt framework and OpenCV library to create a GUI application that allows the user to select a video file, view the original video, and view the grayscale version of the video. The main components of the code are:
 
